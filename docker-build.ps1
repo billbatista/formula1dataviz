@@ -1,0 +1,1 @@
+docker build -t ff1-dev .

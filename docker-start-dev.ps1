@@ -1,0 +1,1 @@
+docker run --rm -v ${PWD}:/home/jovyan -p 8888:8888 --name ff1 ff1-dev
